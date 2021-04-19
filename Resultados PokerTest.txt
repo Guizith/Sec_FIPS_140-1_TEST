@@ -1,0 +1,41 @@
+========== Resultados PokerTest ==========
+-A chave 1  resultou em: 342.828613
+Chave Reprovada
+-A chave 2  resultou em: 346.924805
+Chave Reprovada
+-A chave 3  resultou em: 355.449707
+Chave Reprovada
+-A chave 4  resultou em: 348.607910
+Chave Reprovada
+-A chave 5  resultou em: 347.744141
+Chave Reprovada
+-A chave 6  resultou em: 345.919922
+Chave Reprovada
+-A chave 7  resultou em: 347.936035
+Chave Reprovada
+-A chave 8  resultou em: 349.715332
+Chave Reprovada
+-A chave 9  resultou em: 347.967773
+Chave Reprovada
+-A chave 10  resultou em: 343.238281
+Chave Reprovada
+-A chave 11  resultou em: 19.539063
+Chave Aprovada
+-A chave 12  resultou em: 19.123047
+Chave Aprovada
+-A chave 13  resultou em: 11.487793
+Chave Aprovada
+-A chave 14  resultou em: 23.993652
+Chave Aprovada
+-A chave 15  resultou em: 10.969727
+Chave Aprovada
+-A chave 16  resultou em: 17.011230
+Chave Aprovada
+-A chave 17  resultou em: 11.846191
+Chave Aprovada
+-A chave 18  resultou em: 13.139160
+Chave Aprovada
+-A chave 19  resultou em: 33.811035
+Chave Aprovada
+-A chave 20  resultou em: 24.428711
+Chave Aprovada

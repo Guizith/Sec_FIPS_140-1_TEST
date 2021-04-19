@@ -1,0 +1,121 @@
+========== Resultados RunTest ==========
+
+ Chave 1
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 2
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 3
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 4
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 5
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 6
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 7
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 8
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 9
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 10
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 11
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 12
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 13
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 14
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 15
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 16
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 17
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 18
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 19
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada
+
+ Chave 20
+ Numero de sequencias de tamanho 34+:
+ 0 = 0
+ 1 = 0
+Chave Aprovada

@@ -1,0 +1,421 @@
+========== Resultados RunTest ==========
+
+ Chave 1
+ Numero de sequencias de tamanho 1:
+ 0 = 2757
+ 1 = 2555
+ Numero de sequencias de tamanho 2:
+ 0 = 1403
+ 1 = 1325
+ Numero de sequencias de tamanho 3:
+ 0 = 702
+ 1 = 690
+ Numero de sequencias de tamanho 4:
+ 0 = 268
+ 1 = 334
+ Numero de sequencias de tamanho 5:
+ 0 = 85
+ 1 = 163
+ Numero de sequencias de tamanho 6+:
+ 0 = 29
+ 1 = 177
+  Chave Reprovada
+
+ Chave 2
+ Numero de sequencias de tamanho 1:
+ 0 = 2757
+ 1 = 2529
+ Numero de sequencias de tamanho 2:
+ 0 = 1376
+ 1 = 1295
+ Numero de sequencias de tamanho 3:
+ 0 = 733
+ 1 = 655
+ Numero de sequencias de tamanho 4:
+ 0 = 238
+ 1 = 354
+ Numero de sequencias de tamanho 5:
+ 0 = 94
+ 1 = 200
+ Numero de sequencias de tamanho 6+:
+ 0 = 19
+ 1 = 183
+  Chave Reprovada
+
+ Chave 3
+ Numero de sequencias de tamanho 1:
+ 0 = 2863
+ 1 = 2628
+ Numero de sequencias de tamanho 2:
+ 0 = 1346
+ 1 = 1314
+ Numero de sequencias de tamanho 3:
+ 0 = 721
+ 1 = 676
+ Numero de sequencias de tamanho 4:
+ 0 = 272
+ 1 = 352
+ Numero de sequencias de tamanho 5:
+ 0 = 77
+ 1 = 181
+ Numero de sequencias de tamanho 6+:
+ 0 = 23
+ 1 = 150
+  Chave Reprovada
+
+ Chave 4
+ Numero de sequencias de tamanho 1:
+ 0 = 2764
+ 1 = 2640
+ Numero de sequencias de tamanho 2:
+ 0 = 1378
+ 1 = 1322
+ Numero de sequencias de tamanho 3:
+ 0 = 719
+ 1 = 601
+ Numero de sequencias de tamanho 4:
+ 0 = 291
+ 1 = 361
+ Numero de sequencias de tamanho 5:
+ 0 = 88
+ 1 = 167
+ Numero de sequencias de tamanho 6+:
+ 0 = 23
+ 1 = 171
+  Chave Reprovada
+
+ Chave 5
+ Numero de sequencias de tamanho 1:
+ 0 = 2674
+ 1 = 2591
+ Numero de sequencias de tamanho 2:
+ 0 = 1419
+ 1 = 1313
+ Numero de sequencias de tamanho 3:
+ 0 = 752
+ 1 = 631
+ Numero de sequencias de tamanho 4:
+ 0 = 253
+ 1 = 320
+ Numero de sequencias de tamanho 5:
+ 0 = 90
+ 1 = 172
+ Numero de sequencias de tamanho 6+:
+ 0 = 25
+ 1 = 185
+  Chave Reprovada
+
+ Chave 6
+ Numero de sequencias de tamanho 1:
+ 0 = 2732
+ 1 = 2636
+ Numero de sequencias de tamanho 2:
+ 0 = 1410
+ 1 = 1322
+ Numero de sequencias de tamanho 3:
+ 0 = 724
+ 1 = 612
+ Numero de sequencias de tamanho 4:
+ 0 = 263
+ 1 = 344
+ Numero de sequencias de tamanho 5:
+ 0 = 99
+ 1 = 161
+ Numero de sequencias de tamanho 6+:
+ 0 = 26
+ 1 = 179
+  Chave Reprovada
+
+ Chave 7
+ Numero de sequencias de tamanho 1:
+ 0 = 2726
+ 1 = 2634
+ Numero de sequencias de tamanho 2:
+ 0 = 1374
+ 1 = 1260
+ Numero de sequencias de tamanho 3:
+ 0 = 741
+ 1 = 633
+ Numero de sequencias de tamanho 4:
+ 0 = 266
+ 1 = 363
+ Numero de sequencias de tamanho 5:
+ 0 = 99
+ 1 = 177
+ Numero de sequencias de tamanho 6+:
+ 0 = 31
+ 1 = 170
+  Chave Reprovada
+
+ Chave 8
+ Numero de sequencias de tamanho 1:
+ 0 = 2601
+ 1 = 2510
+ Numero de sequencias de tamanho 2:
+ 0 = 1370
+ 1 = 1254
+ Numero de sequencias de tamanho 3:
+ 0 = 778
+ 1 = 663
+ Numero de sequencias de tamanho 4:
+ 0 = 271
+ 1 = 331
+ Numero de sequencias de tamanho 5:
+ 0 = 97
+ 1 = 202
+ Numero de sequencias de tamanho 6+:
+ 0 = 26
+ 1 = 182
+  Chave Reprovada
+
+ Chave 9
+ Numero de sequencias de tamanho 1:
+ 0 = 2780
+ 1 = 2526
+ Numero de sequencias de tamanho 2:
+ 0 = 1421
+ 1 = 1332
+ Numero de sequencias de tamanho 3:
+ 0 = 697
+ 1 = 652
+ Numero de sequencias de tamanho 4:
+ 0 = 237
+ 1 = 370
+ Numero de sequencias de tamanho 5:
+ 0 = 85
+ 1 = 180
+ Numero de sequencias de tamanho 6+:
+ 0 = 22
+ 1 = 181
+  Chave Reprovada
+
+ Chave 10
+ Numero de sequencias de tamanho 1:
+ 0 = 2771
+ 1 = 2553
+ Numero de sequencias de tamanho 2:
+ 0 = 1415
+ 1 = 1317
+ Numero de sequencias de tamanho 3:
+ 0 = 693
+ 1 = 694
+ Numero de sequencias de tamanho 4:
+ 0 = 283
+ 1 = 361
+ Numero de sequencias de tamanho 5:
+ 0 = 79
+ 1 = 184
+ Numero de sequencias de tamanho 6+:
+ 0 = 19
+ 1 = 151
+  Chave Reprovada
+
+ Chave 11
+ Numero de sequencias de tamanho 1:
+ 0 = 2476
+ 1 = 2504
+ Numero de sequencias de tamanho 2:
+ 0 = 1285
+ 1 = 1246
+ Numero de sequencias de tamanho 3:
+ 0 = 629
+ 1 = 635
+ Numero de sequencias de tamanho 4:
+ 0 = 328
+ 1 = 308
+ Numero de sequencias de tamanho 5:
+ 0 = 160
+ 1 = 163
+ Numero de sequencias de tamanho 6+:
+ 0 = 134
+ 1 = 156
+  Chave Aprovada
+
+ Chave 12
+ Numero de sequencias de tamanho 1:
+ 0 = 2643
+ 1 = 2557
+ Numero de sequencias de tamanho 2:
+ 0 = 1265
+ 1 = 1324
+ Numero de sequencias de tamanho 3:
+ 0 = 614
+ 1 = 636
+ Numero de sequencias de tamanho 4:
+ 0 = 301
+ 1 = 323
+ Numero de sequencias de tamanho 5:
+ 0 = 155
+ 1 = 133
+ Numero de sequencias de tamanho 6+:
+ 0 = 136
+ 1 = 141
+  Chave Aprovada
+
+ Chave 13
+ Numero de sequencias de tamanho 1:
+ 0 = 2461
+ 1 = 2449
+ Numero de sequencias de tamanho 2:
+ 0 = 1306
+ 1 = 1294
+ Numero de sequencias de tamanho 3:
+ 0 = 630
+ 1 = 664
+ Numero de sequencias de tamanho 4:
+ 0 = 302
+ 1 = 322
+ Numero de sequencias de tamanho 5:
+ 0 = 157
+ 1 = 138
+ Numero de sequencias de tamanho 6+:
+ 0 = 151
+ 1 = 140
+  Chave Aprovada
+
+ Chave 14
+ Numero de sequencias de tamanho 1:
+ 0 = 2488
+ 1 = 2435
+ Numero de sequencias de tamanho 2:
+ 0 = 1253
+ 1 = 1307
+ Numero de sequencias de tamanho 3:
+ 0 = 634
+ 1 = 609
+ Numero de sequencias de tamanho 4:
+ 0 = 341
+ 1 = 330
+ Numero de sequencias de tamanho 5:
+ 0 = 131
+ 1 = 150
+ Numero de sequencias de tamanho 6+:
+ 0 = 146
+ 1 = 162
+  Chave Aprovada
+
+ Chave 15
+ Numero de sequencias de tamanho 1:
+ 0 = 2462
+ 1 = 2478
+ Numero de sequencias de tamanho 2:
+ 0 = 1221
+ 1 = 1249
+ Numero de sequencias de tamanho 3:
+ 0 = 600
+ 1 = 615
+ Numero de sequencias de tamanho 4:
+ 0 = 329
+ 1 = 302
+ Numero de sequencias de tamanho 5:
+ 0 = 163
+ 1 = 143
+ Numero de sequencias de tamanho 6+:
+ 0 = 179
+ 1 = 166
+  Chave Aprovada
+
+ Chave 16
+ Numero de sequencias de tamanho 1:
+ 0 = 2564
+ 1 = 2410
+ Numero de sequencias de tamanho 2:
+ 0 = 1215
+ 1 = 1298
+ Numero de sequencias de tamanho 3:
+ 0 = 602
+ 1 = 624
+ Numero de sequencias de tamanho 4:
+ 0 = 312
+ 1 = 340
+ Numero de sequencias de tamanho 5:
+ 0 = 152
+ 1 = 156
+ Numero de sequencias de tamanho 6+:
+ 0 = 149
+ 1 = 165
+  Chave Aprovada
+
+ Chave 17
+ Numero de sequencias de tamanho 1:
+ 0 = 2487
+ 1 = 2479
+ Numero de sequencias de tamanho 2:
+ 0 = 1261
+ 1 = 1260
+ Numero de sequencias de tamanho 3:
+ 0 = 607
+ 1 = 605
+ Numero de sequencias de tamanho 4:
+ 0 = 297
+ 1 = 305
+ Numero de sequencias de tamanho 5:
+ 0 = 182
+ 1 = 184
+ Numero de sequencias de tamanho 6+:
+ 0 = 152
+ 1 = 153
+  Chave Aprovada
+
+ Chave 18
+ Numero de sequencias de tamanho 1:
+ 0 = 2427
+ 1 = 2491
+ Numero de sequencias de tamanho 2:
+ 0 = 1274
+ 1 = 1223
+ Numero de sequencias de tamanho 3:
+ 0 = 613
+ 1 = 632
+ Numero de sequencias de tamanho 4:
+ 0 = 322
+ 1 = 321
+ Numero de sequencias de tamanho 5:
+ 0 = 168
+ 1 = 146
+ Numero de sequencias de tamanho 6+:
+ 0 = 165
+ 1 = 155
+  Chave Aprovada
+
+ Chave 19
+ Numero de sequencias de tamanho 1:
+ 0 = 2514
+ 1 = 2531
+ Numero de sequencias de tamanho 2:
+ 0 = 1241
+ 1 = 1219
+ Numero de sequencias de tamanho 3:
+ 0 = 666
+ 1 = 627
+ Numero de sequencias de tamanho 4:
+ 0 = 322
+ 1 = 342
+ Numero de sequencias de tamanho 5:
+ 0 = 138
+ 1 = 144
+ Numero de sequencias de tamanho 6+:
+ 0 = 138
+ 1 = 155
+  Chave Aprovada
+
+ Chave 20
+ Numero de sequencias de tamanho 1:
+ 0 = 2489
+ 1 = 2609
+ Numero de sequencias de tamanho 2:
+ 0 = 1241
+ 1 = 1224
+ Numero de sequencias de tamanho 3:
+ 0 = 670
+ 1 = 620
+ Numero de sequencias de tamanho 4:
+ 0 = 331
+ 1 = 278
+ Numero de sequencias de tamanho 5:
+ 0 = 145
+ 1 = 156
+ Numero de sequencias de tamanho 6+:
+ 0 = 158
+ 1 = 147
+  Chave Aprovada
